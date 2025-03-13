@@ -43,7 +43,7 @@ const MapSC = ({ parkimg, title, city, tarea, tbuild }) => {
             src="/buttonarrows/redarico.svg"
             width={0}
             height={0}
-            className="h-10 w-10 rotate-45 group-hover:rotate-0 group-hover:scale-[120%] transition-transform duration-300 cursor-pointer"
+            className="mt-2 h-10 w-10 rotate-45 group-hover:rotate-0 group-hover:scale-[120%] transition-transform duration-300 cursor-pointer"
             alt="Red Arrow Icon"
           />
           <p className="text-[#ffffff] fsans-600">Explore More</p>
